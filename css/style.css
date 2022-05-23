@@ -1,0 +1,26 @@
+:root {
+  /*color variable*/
+  --dark-white: #edeef7;
+  --white: #f7f8ff;
+  --light-green: #00b097;
+  --normal-green: #235952;
+  --dark-green: #00231f;
+
+  /*font variable*/
+  --main-font: "Work Sans", sans-serif;
+}
+
+/*reset*/
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*general styles*/
+body {
+  font-family: var(--main-font);
+  background-color: var(--dark-white);
+}
