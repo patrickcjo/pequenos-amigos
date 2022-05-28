@@ -6,7 +6,7 @@ Informações
 </h2>
 
 <p align="center">
-<a href="" target="_blank">Site Completo</a> •
+<a href="https://paulpbi.github.io/pequenos-amigos/" target="_blank">Site Completo</a> •
 <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">Linkedin</a> •
 <a href="https://github.com/Paulpbi" target="_blank">Github</a> •
 <a href="https://www.behance.net/paulopbi" target="_blank">Behance</a> •
