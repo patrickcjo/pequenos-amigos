@@ -6,9 +6,9 @@ Informações
 </h2>
 
 <p align="center">
-<a href="https://paulpbi.github.io/pequenos-amigos/" target="_blank">Site Completo</a> •
+<a href="https://paulopbi.github.io/pequenos-amigos/" target="_blank">Site Completo</a> •
 <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">Linkedin</a> •
-<a href="https://github.com/Paulpbi" target="_blank">Github</a> •
+<a href="https://github.com/paulopbi" target="_blank">Github</a> •
 <a href="https://www.behance.net/paulopbi" target="_blank">Behance</a> •
 <a href="https://www.instagram.com/paulopbi_/" target="_blank">Instagram</a> 
 </p>
